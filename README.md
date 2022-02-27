@@ -1,2 +1,2 @@
 # solutions
-Contains solutions to various problems
+Contains solutions to various leetcode problems
